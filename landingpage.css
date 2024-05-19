@@ -1,0 +1,252 @@
+#body{
+    margin-bottom: 10px;
+    height: 960px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: linear-gradient(#37D5D6,#36096D);
+}
+
+#rock{
+    width: 18%;
+     margin-left: 400px;
+}
+
+#Scissor{
+    width: 14%;
+    margin-left: 350px;
+}
+#Paper{
+    width: 15%;
+    margin-left: 750px;
+
+}
+
+.class{
+  gap: 200px;  
+}
+
+#icons{
+   padding-top: 5%; 
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px ;
+}
+
+#button{
+    margin-left: 800px;
+    width: 8%;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#buttoncontainer{
+    padding-top: 3%;
+}
+
+@media screen and (min-width:375px) and (max-width:667px){
+    #rock{
+        width: 25%;
+         margin-left: 50px;
+    }
+    
+    #Scissor{
+        width: 20%;
+        margin-left: 140px;
+    }
+    #Paper{
+        width: 30%;
+        margin-left: 130px;    
+    }
+
+    #heading{
+        text-align: center;
+        font-size: 40px ;
+        margin-bottom: 90px;
+        margin-top: 160px;
+    }
+
+    #button{
+        margin-left: 130px;
+        width: 40%;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    #icons{
+        padding-top: 20%; 
+        gap: 5%;
+     }     
+}
+
+@media screen and (min-width:360px) and (max-width:740px) {
+    #rock{
+        width: 20%;
+         margin-left: 50px;
+    }
+    
+    #Scissor{
+        width: 15%;
+        margin-left: 140px;
+    }
+    #Paper{
+        width: 30%;
+        margin-left: 130px;    
+    }
+
+    #heading{
+        text-align: center;
+        font-size: 40px ;
+        margin-bottom: 90px;
+        margin-top: 160px;
+    }
+
+    #button{
+        margin-left: 130px;
+        width: 40%;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    #icons{
+        padding-top: 20%; 
+        gap: 5%;
+     } 
+
+     #body{
+        height: 720px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px){
+    #rock{
+        width: 30%;
+         margin-left: 50px;
+    }
+    
+    #Scissor{
+        width: 24%;
+        margin-left: 250px;
+    }
+    #Paper{
+        width: 30%;
+        margin-left: 270px;    
+    }
+
+    #heading{
+        text-align: center;
+        font-size: 80px;
+        margin-bottom: 90px;
+        margin-top: 110px;
+    }
+
+    #button{
+        margin-left: 240px;
+        width: 40%;
+        height: 60px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    #icons{
+        padding-top: 20%; 
+        /* gap: 5%; */
+     } 
+
+     #body{
+        height: 1005px;
+    }
+}
+
+@media screen and (min-width:540px) and (max-width:720px){
+    #rock{
+        width: 25%;
+         margin-left: 50px;
+    }
+    
+    #Scissor{
+        width: 20%;
+        margin-left: 250px;
+    }
+    #Paper{
+        width: 30%;
+        margin-left: 270px;    
+    }
+
+    #heading{
+        text-align: center;
+        font-size: 40px;
+        margin-bottom: 90px;
+        margin-top: 110px;
+    }
+
+    #button{
+        margin-left: 240px;
+        width: 40%;
+        height: 60px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    #icons{
+        padding-top: 20%; 
+        /* gap: 5%; */
+     } 
+
+     #body{
+        height: 900px;
+    }
+}
+
+@media screen and (min-width:280px) and (max-width:653px) {
+    #rock{
+        width: 15%;
+         margin-left: 50px;
+    }
+    
+    #Scissor{
+        width: 15%;
+        margin-left: 250px;
+    }
+    #Paper{
+        width: 40%;
+        margin-left: 100px;    
+    }
+
+    #heading{
+        text-align: center;
+        font-size: 30px;
+        margin-bottom: 90px;
+        margin-top: 110px;
+    }
+
+    #button{
+        margin-left: 70px;
+        width: 60%;
+        height: 60px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    #icons{
+        padding-top: 20%; 
+        /* gap: 5%; */
+     } 
+
+    #body{
+            margin-bottom: 10px;
+            height: 674px;
+            background-repeat: no-repeat;
+            background-size: 130% 100%;
+            background-image: linear-gradient(#37D5D6,#36096D);
+        }
+    }
+    
+ @media screen and (min-width:1280px) and (max-width:800px){
+
+ }
+
