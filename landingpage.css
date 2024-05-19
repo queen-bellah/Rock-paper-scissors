@@ -1,21 +1,46 @@
 #body{
-    height: 1000px;
+    height: 960px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-image: linear-gradient(#37D5D6,#36096D);
 }
 
 #rock{
-    width: 20%;
+    width: 18%;
+     margin-left: 400px;
 }
 
 #Scissor{
     width: 14%;
+    margin-left: 350px;
 }
 #Paper{
-    width: 20%;
+    width: 15%;
+    margin-left: 750px;
+
+}
+
+.class{
+  gap: 200px;  
 }
 
 #icons{
-    margin-left: 8%;
+   padding-top: 5%; 
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px ;
+}
+
+#button{
+    margin-left: 800px;
+    width: 8%;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#buttoncontainer{
+    padding-top: 3%;
 }
