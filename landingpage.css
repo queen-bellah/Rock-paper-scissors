@@ -1,0 +1,21 @@
+#body{
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: linear-gradient(#37D5D6,#36096D);
+}
+
+#rock{
+    width: 20%;
+}
+
+#Scissor{
+    width: 14%;
+}
+#Paper{
+    width: 20%;
+}
+
+#icons{
+    margin-left: 8%;
+}
