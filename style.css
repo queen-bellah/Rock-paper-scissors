@@ -200,7 +200,7 @@ h2{
 
     body{
         margin-top: 0px;
-        min-height: 100vh;
+        height: 300px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -230,7 +230,7 @@ h2{
     }
 
     .selection{
-        display: grid;
+      
     }
 
     #heading{
