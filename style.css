@@ -32,7 +32,11 @@ h1{
     align-items: center;
     justify-content: center;
     height: 50px;
+    
+
 }
+
+
 .info span , .info h3{
     font-size: 25px;
     font-weight: bold;
@@ -56,6 +60,9 @@ h1{
     color: rgb(245, 198, 141);
     margin-top: 20px;
 }
+.section{
+    border:rgb(245, 198, 141) 10px solid;
+}
 h2{
     font-family: sans-serif;
     font-weight: bold;
@@ -75,7 +82,7 @@ h2{
     padding: 25px;
     border-radius: 50%;
     margin-top: 70px;
-    border: none;
+    border:rgb(245, 198, 141) 10px solid;
     outline: none;
     cursor: pointer;
     background : white;
