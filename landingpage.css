@@ -46,15 +46,15 @@
     padding-top: 3%;
 }
 
-@media screen and (min-width:375px) and (max-width:667px){
+@media screen and (min-width:375px) and (max-width:700px){
     #rock{
-        width: 25%;
-         margin-left: 50px;
+        width: 20%;
+         margin-left: 1px;
     }
     
     #Scissor{
-        width: 20%;
-        margin-left: 140px;
+        width: 30%;
+        margin-left: 150px;
     }
 
     .paper-scissor{
@@ -62,24 +62,25 @@
         gap: 30px;
     }
     #Paper{
-        width: 30px;
+        width: 90px;
         margin-left: 130px;  
-        margin-top: 20%;  
+        margin-top: 5%;  
     }
 
     #heading{
         text-align: center;
         font-size: 40px ;
-        margin-bottom: 90px;
-        margin-top: 160px;
+        margin-bottom: 0px;
+        margin-top: 110px;
     }
 
     #button{
-        margin-left: 130px;
-        width: 40%;
+        margin-left: 118px;
+        width: 30%;
         height: 50px;
         border-radius: 10px;
         font-size: 20px;
+        margin-top: 9%;
     }
 
     .paper-scissor{
@@ -90,13 +91,17 @@
     #icons{
         padding-top: 20%; 
         gap: 5%;
-     }     
+     }  
+     
+     #body{
+        height: 641px;
+     }
 }
 
-@media screen and (min-width:360px) and (max-width:740px) {
+@media screen and (min-width:414px) and (max-width:915px) {
     #rock{
         width: 20%;
-         margin-left: 50px;
+        margin-left: 420px;
     }
 
     .paper-scissor{
@@ -226,13 +231,13 @@
     }
 }
 
-@media screen and (min-width:280px) and (max-width:653px) {
+/* @media screen and (min-width:280px) and (max-width:653px) {
     #rock{
         width: 15%;
          margin-left: 20px;
-    }
+    } */
     
-    #Scissor{
+    /* #Scissor{
         width: 15%;
         margin-left: 80px;
     }
@@ -246,36 +251,91 @@
         text-align: center;
         font-size: 30px;
         margin-bottom: 90px;
-        margin-top: 110px;
-    }
+        margin-top: 110px; */
+    /* }
     .paper-scissor{
         display: flex;
         gap: 30px;
-        margin-left: 15px;
-    }
+        margin-left: 15px; */
+    /* } */
 
-    #button{
+    /* #button{
         margin-top: 80px;
         margin-left: 90px;
         width: 40%;
         height: 60px;
         border-radius: 10px;
         font-size: 20px;
-    }
+    /* }  */
 
-    #icons{
-        padding-top: 20%; 
+    /* #icons{
+        padding-top: 20%;  */
         /* gap: 5%; */
-     } 
+     /* }  */
 
-    #body{
+    /* #body{
             margin-bottom: 10px;
             height: 674px;
             background-repeat: no-repeat;
             background-size: 130% 100%;
             background-image: linear-gradient(#37D5D6,#36096D);
-        }
-    }
+        } */
+    /* } */
     
 
 
+
+
+    /* @media screen and (min-width:375px) and (max-width:700px){ */
+     /* .container{ */
+        /* width: 60%; */
+        /* flex-wrap: wrap; */
+    /* } */
+
+    /* .selection button{ */
+        /* margin: 0 20px; */
+        /* padding: 25px; */
+        /* border-radius: 50%; */
+        /* margin-top: 70px; */
+        /* border: none; */
+        /* outline: none; */
+        /* cursor: pointer; */
+        /* background : white; */
+        /* font-size: 45px; */
+        /* color: rgb(245, 198, 141); */
+        /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* } */
+
+    /* .container .section{ */
+        /* width:100px; */
+        /* margin: 20px 0px; */
+    /* } */
+
+    /* body{ */
+        /* margin-top: 0px; */
+        /* min-height: 50vh; */
+        /* display: flex; */
+        /* flex-direction: column; */
+        /* align-items: center; */
+        /* height: 50px; */
+        /* background-repeat: no-repeat; */
+        /* background-size: 100% 100%; */
+        /* background-image: linear-gradient(#37D5D6,#36096D); */
+    /* } */
+
+    /* .show{ */
+        /* justify-content: center; */
+        /* background : white; */
+        /* height: 179px; */
+        /* border: 2px; */
+        /* border-color:rgb(245, 198, 141); */
+    /* } */
+
+    /* .show i{       
+        margin-left: 100px;
+        /* margin-bottom: 100px; */
+        /* font-size: 100px; */
+        /* color: rgb(245, 198, 141); */
+        /* margin-top: 20px; */
+    /* }    */
+/* } */
