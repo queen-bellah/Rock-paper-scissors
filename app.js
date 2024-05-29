@@ -6,8 +6,8 @@ const showIcon = document.querySelector('.show i');
 const computerShowIcon = document.querySelector('.computer i');
 
 // Storing the scores.
-let computerScore = 1;
-let playerScore = 1;
+let computerScore = 0;
+let playerScore = 0;
 
 const rockIcon = "fas fa-hand-rock";
 const paperIcon = "fas fa-hand-paper";

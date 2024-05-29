@@ -51,6 +51,7 @@
         width: 25%;
          margin-left: 50px;
     }
+
     
     #Scissor{
         width: 20%;
@@ -143,6 +144,7 @@
         width: 30%;
          margin-left: 50px;
     }
+
     
     #Scissor{
         width: 24%;
@@ -187,6 +189,7 @@
         width: 25%;
          margin-left: 50px;
     }
+
     
     #Scissor{
         width: 20%;
@@ -276,6 +279,54 @@
             background-image: linear-gradient(#37D5D6,#36096D);
         }
     }
+
+    @media screen and (min-width:768px) and (max-width:1024px) {
+
+        #rock{
+            width: 20%;
+             margin-left: 50px;
+        }
+    
+        .paper-scissor{
+            display: flex;
+            gap: 30px;
+        }
+        
+        #Scissor{
+            width: 15%;
+            margin-left: 140px;
+        }
+        #Paper img{
+            width: 30px;
+            margin-left: 130px;    
+        }
+    
+        #heading{
+            text-align: center;
+            font-size: 40px ;
+            margin-bottom: 90px;
+            margin-top: 160px;
+        }
+    
+        #button{
+            margin-left: 130px;
+            width: 40%;
+            height: 50px;
+            border-radius: 10px;
+            font-size: 20px;
+        }
+    
+        #icons{
+            padding-top: 20%; 
+            gap: 5%;
+         } 
+    
+         #body{
+            height: 720px;
+            
+        }
+    }
+
     
 
 
